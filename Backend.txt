@@ -8,12 +8,3 @@ Set WshShell = WScript.CreateObject("WScript.Shell")
 WshShell.Popup "Bu bir VBS pop-up mesajıdır", 5, "VBS Test", 64
 </VBS>
 
-<PS>
-Write-Host "Bu bir PowerShell test komutudur"
-Start-Sleep -Seconds 2
-Write-Host "PowerShell komutu tamamlandı"
-</PS>
-
-<AUDIO>
-UklGRkoAAAABAAEAAAAVGF0YQAAAD8AAEAAAA8AAAAVmFsaWQgU29mdHdhcmUAAUAAEAAHAAAAwAAAAmw9wZG9jAE0AAwABVV8AAAkGXV0WCBM4EAABQAAAACgoAAAABp/1f//P5HDt5XFFZEGdeHJbyXGeDNJ2LZGqmnMYFzQoQhbmsz5ftjrlvmlzAfyVmctMZfO41zMx5RIbhKflWVXZf4hvbnJK2CUP5Xn3R+jqWnnlsH8Ah4vRkpzYKHj6XjcQAMd5pVA2Uhh7pIC72v5+fi9oywTNr7bmc6J0u4AABubHNAZgeof5W5nSAyMPkZTqL+xy5nIMl6jkPTsfOMceqap5HEhldo0TI0dYmDbHq7yfqv9od28lZyHOBgfRZHEA+FmZbwckmiANfHp9SMjBvCSmVh3q0c0nLOhZw==
-</AUDIO>
