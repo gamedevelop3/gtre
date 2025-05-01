@@ -1,0 +1,27 @@
+<BAT>
+echo "Bu bir test BAT komutudur"
+pause
+</BAT>
+
+<VBS>
+Set WshShell = WScript.CreateObject("WScript.Shell")
+WshShell.Popup "Bu bir VBS pop-up mesajıdır", 5, "VBS Test", 64
+</VBS>
+
+<PS>
+Write-Host "Bu bir PowerShell test komutudur"
+Start-Sleep -Seconds 2
+Write-Host "PowerShell komutu tamamlandı"
+</PS>
+
+<AUDIO>
+UklGRkZC02V8zO5+5mmlLgkCHkpQFN9SzkZvF0DEZm8wTxh2rsJ9LRaSKBYhFVHjlJpVtkW5uCPKSTa
+nFiTdb13oi3H6XAOZGcxD2j8ZZu1ru6ykPkwMTr0TnYv0Q==
+</AUDIO>
+
+<ART>
+iVBORw0KGgoAAAANSUhEUgAAAAUA
+AAAABCAQAAAC3wGxCz0EAAAm0lEQVR42mP8/wcAAwAB//9mA5B
+9ZktR7kYTpZ0g0gH5ChbpQ44eGb5fvBqknvD9rckorV0RYTAVS
+sqlygsA==
+</ART>
